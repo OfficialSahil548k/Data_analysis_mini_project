@@ -1,0 +1,6 @@
+sales_analysis_project/
+|
+|----superstore.csv
+|----sales_analysis.py
+|----output_charts/
+|___README.md
